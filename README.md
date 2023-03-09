@@ -1,7 +1,7 @@
 Hi there 👋
 My name is Tanvir, and I'm a PhD student at the Department of Biostatistics, Florida International University. Welcome to my GitHub profile!
 
-🎓 My CV is: https://khasan.quarto.pub/kazi-tanvir-hasan/
+🎓 My CV is: https://khasan.quarto.pub/kazi-tanvir-hasan/CV.html
 
 🔭 I’m currently working on: a project to gain a comprehensive understanding of the impact of heavy metal exposure on cognitive decline and Alzheimer’s disease and related dementia (ADRD). 
 
