@@ -10,7 +10,7 @@ My name is Tanvir, and I'm a PhD student at the Department of Biostatistics, Flo
 👁️ Wanted to learn: More about data science, machine learning and casual bayesian network.
 
 📫 How to reach me
-You can reach me through email at khasa006 AT fiu DOT edu, or connect with me on LinkedIn at www.linkedin.com/in/kazitanvirhasan.
+You can reach me through email at khasa006@fiu.edu, or connect with me on LinkedIn at www.linkedin.com/in/kazitanvirhasan.
 
 
 
