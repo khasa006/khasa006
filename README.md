@@ -1,5 +1,5 @@
 Hi there 👋
-My name is Tanvir, and I'm a Department of Psychiatry at the Yale School of Medicine. Welcome to my GitHub profile!
+My name is Tanvir, and I'm a Postdoctoral Associate at the Department of Psychiatry in the Yale School of Medicine. Welcome to my GitHub profile!
 
 🎓 My CV is: https://khasan.quarto.pub/kazi-tanvir-hasan/CV.html
 
