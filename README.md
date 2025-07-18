@@ -2,6 +2,7 @@
 I'm a Postdoctoral Associate in the Department of Psychiatry at the Yale School of Medicine, with a PhD in Public Health (Biostatistics & Data Analytics) from Florida International University.
 
 🧠 What I Do
+
 At Yale, I’m currently involved in a multidisciplinary research project primarily focus on genetically-informed studies of substance use disorders (SUDs), psychiatric conditions, and other behavioral and lifestyle characteristics that impact human health using large datasets and biobanks. This work combines advanced statistical methods with psychiatric epidemiology to understand neurodegenerative disease risk and progression.
 
 🔍 Research Interests
