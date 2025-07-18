@@ -1,13 +1,32 @@
-Hi there 👋
-My name is Tanvir, and I'm a Postdoctoral Associate at the Department of Psychiatry in the Yale School of Medicine. Welcome to my GitHub profile!
+👋 Hi, I'm Tanvir
+I'm a Postdoctoral Associate in the Department of Psychiatry at the Yale School of Medicine, with a PhD in Public Health (Biostatistics & Data Analytics) from Florida International University.
 
-🎓 My CV is: https://khasan.quarto.pub/kazi-tanvir-hasan/CV.html
+🧠 What I Do
+At Yale, I’m currently involved in a multidisciplinary research project primarily focus on genetically-informed studies of substance use disorders (SUDs), psychiatric conditions, and other behavioral and lifestyle characteristics that impact human health using large datasets and biobanks. This work combines advanced statistical methods with psychiatric epidemiology to understand neurodegenerative disease risk and progression.
 
-🔭 I’m currently working on: a project to gain a comprehensive understanding of the impact of heavy metal exposure on cognitive decline and Alzheimer’s disease and related dementia (ADRD), and other neurodegenerative diseases. 
+🔍 Research Interests
+Biostatistics & Epidemiology
 
-🌱 I’m currently learning: Reproducible research with Rmarkdown and Quarto, Shiny app and R package development
+Data Science & Machine Learning
 
-👁️ Wanted to learn: More about data science, machine learning and causal Bayesian networks.
+Disease Modeling & Bayesian Analysis
+
+Causal Inference & Psychiatric Epidemiology
+
+Reproducible Research
+
+🛠️ Tools & Technologies
+Programming: R, R Markdown & Quarto, SAS
+
+Currently Learning: Shiny App Development, R Package Development
+
+Exploring: Causal Bayesian Networks, Longitudinal Data Analysis
+
+📄 Check Out My CV
+👉 View my CV
+
+🤝 Let’s Connect!
+I'm always open to collaboration in the areas of biostatistics, mental health research, and data science. Feel free to connect or reach out!
 
 📫 How to reach me
 You can reach me through email at khasa006@fiu.edu or connect with me on LinkedIn at www.linkedin.com/in/kazitanvirhasan.
