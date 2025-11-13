@@ -23,9 +23,6 @@ Currently Learning: Shiny App Development, R Package Development
 
 Exploring: Causal Bayesian Networks, Longitudinal Data Analysis
 
-📄 Check Out My CV
-👉 View my CV
-
 🤝 Let’s Connect!
 I'm always open to collaboration in the areas of biostatistics, mental health research, and data science. Feel free to connect or reach out!
 
